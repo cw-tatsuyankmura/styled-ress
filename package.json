@@ -1,0 +1,37 @@
+{
+  "name": "styled-ress",
+  "version": "0.0.1",
+  "description": "Filipe Linhares's ress CSS for styled-components",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel -d dist src"
+  },
+  "author": {
+    "email": "tatsuya.nakamura0412@gmail.com",
+    "name": "Tatsuya Nakamura"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cw-tatsuyankmura/styled-ress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cw-tatsuyankmura/styled-ress/issues"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "styled-components": "^4.3.2"
+  },
+  "keywords": [
+    "css",
+    "ress",
+    "ress.css",
+    "styled-components"
+  ],
+  "typings": "index.d.ts",
+  "license": "MIT",
+  "peerDependencies": {
+    "styled-components": "^4.0.0"
+  }
+}
