@@ -1,6 +1,6 @@
 {
   "name": "styled-ress",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Filipe Linhares's ress CSS for styled-components",
   "main": "dist/index.js",
   "scripts": {
